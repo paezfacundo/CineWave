@@ -79,6 +79,7 @@ main{
 
 .mb-3, .my-3 {
   margin: auto;
+  background-color: rgb(255 255 255 / 60%);
 }
 
 .card-body{
