@@ -73,12 +73,20 @@ main{
 /* ------------------- Cards ------------------- */
 
 .card{
-  width: 40%;
+  width: 30%;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .mb-3, .my-3 {
   margin: auto;
+}
+
+.card-body{
+  margin: auto !important;
+  height: 100% !important;
+  align-items: center !important;
+  align-content: center !important;
+  text-align: center;
 }
 
 /* ------------------- Propiedades de texto ------------------- */
